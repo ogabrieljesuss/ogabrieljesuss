@@ -1,4 +1,3 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=andreinaoliveira&color=ff69b4"><br>
 <div align="center">
     <img align="center" src="https://media1.tenor.com/m/LDuF2jVabwoAAAAC/banner-welcome.gif" width="700" height="150">
 </div>
